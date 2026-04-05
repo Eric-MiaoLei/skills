@@ -1,0 +1,165 @@
+{
+    "report_title":  "Japan Engineering Job Opportunities",
+    "created_at":  "2026-04-04",
+    "target_profile":  "Frontend, backend, and QA engineers",
+    "search_scope":  "Regression sample for role-family caps",
+    "methodology":  "Synthetic regression payload for mixed role-family selection.",
+    "assumptions":  [
+
+                    ],
+    "key_takeaways":  [
+
+                      ],
+    "jobs":  [
+                 {
+                     "title":  "Senior Frontend Engineer",
+                     "company":  "UI Labs",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 9,000,000 - 11,000,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "React, TypeScript",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Frontend-focused product work.",
+                     "url":  "https://example.com/frontend-1",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9.7,
+                     "notes":  "Frontend sample 1."
+                 },
+                 {
+                     "title":  "Frontend Engineer",
+                     "company":  "UI Labs",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,000,000 - 10,000,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Vue, TypeScript",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Frontend-focused product work.",
+                     "url":  "https://example.com/frontend-2",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9.4,
+                     "notes":  "Frontend sample 2."
+                 },
+                 {
+                     "title":  "Backend Engineer",
+                     "company":  "API Works",
+                     "location":  "Osaka, Japan",
+                     "work_mode":  "Remote in Japan",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,500,000 - 10,500,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Go, PostgreSQL",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Build backend services and APIs.",
+                     "url":  "https://example.com/backend-1",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9.6,
+                     "notes":  "Backend sample 1."
+                 },
+                 {
+                     "title":  "Platform Engineer",
+                     "company":  "API Works",
+                     "location":  "Osaka, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,300,000 - 10,300,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Python, Kubernetes",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Server-side and platform engineering.",
+                     "url":  "https://example.com/backend-2",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9.1,
+                     "notes":  "Backend sample 2."
+                 },
+                 {
+                     "title":  "QA Engineer",
+                     "company":  "Quality First",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,500,000 - 9,500,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Playwright, Cypress",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "QA automation for product teams.",
+                     "url":  "https://example.com/qa-1",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  8.9,
+                     "notes":  "QA sample 1."
+                 },
+                 {
+                     "title":  "SDET",
+                     "company":  "Quality First",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Remote in Japan",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,800,000 - 9,800,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Java, Selenium",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Test automation and reliability engineering.",
+                     "url":  "https://example.com/qa-2",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  8.7,
+                     "notes":  "QA sample 2."
+                 }
+             ]
+}

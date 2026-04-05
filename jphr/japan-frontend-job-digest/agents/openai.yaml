@@ -1,0 +1,3 @@
+display_name: Japan Engineering Jobs
+short_description: Research Japanese domestic frontend, backend, and QA job boards first, then normalize and export the best Japan engineering roles into reusable JSON and a Word-ready report.
+default_prompt: Find current frontend, backend, or QA job opportunities in Japan, prioritize Japanese domestic job boards and company career pages, use both Japanese and English search keywords, normalize and rank the listings, then export the shortlist into JSON and a .doc report.

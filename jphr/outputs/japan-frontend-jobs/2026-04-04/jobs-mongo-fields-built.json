@@ -1,0 +1,42 @@
+{
+    "report_title":  "Japan Frontend Job Opportunities",
+    "created_at":  "2026-04-04",
+    "target_profile":  "Frontend engineer seeking English-friendly roles in Japan",
+    "search_scope":  "Regression sample with Mongo-bound fields",
+    "methodology":  "Synthetic regression payload for field normalization.",
+    "assumptions":  [
+
+                    ],
+    "key_takeaways":  [
+
+                      ],
+    "jobs":  [
+                 {
+                     "title":  "Senior Frontend Engineer",
+                     "company":  "Example KK",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,000,000 - 10,000,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Professional",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "React, TypeScript, Next.js",
+                     "company_size":  "500-1000 employees",
+                     "benefits":  [
+                                      "Full social insurance",
+                                      "Commuting allowance",
+                                      "Remote work support"
+                                  ],
+                     "education_requirements":  "Bachelor\u0027s degree preferred",
+                     "experience_requirements":  "5+ years of frontend product development experience",
+                     "other_requirements":  "Must already reside in Japan",
+                     "summary":  "Build the customer-facing product and lead frontend quality improvements.",
+                     "url":  "https://example.com/jobs/frontend",
+                     "source":  "Official Careers",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9.1,
+                     "notes":  "Strong stack match and clear role scope."
+                 }
+             ]
+}

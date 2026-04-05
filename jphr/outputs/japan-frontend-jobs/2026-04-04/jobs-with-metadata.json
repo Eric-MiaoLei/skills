@@ -1,0 +1,35 @@
+{
+  "report_title": "Japan Frontend Job Opportunities",
+  "created_at": "2026-04-04",
+  "target_profile": "Frontend engineer seeking English-friendly frontend roles in Japan",
+  "search_scope": "Current Japan frontend openings verified on 2026-04-04",
+  "methodology": "Reviewed live listing pages and normalized them into a shortlist.",
+  "assumptions": [
+    "Prioritize English-friendly product companies.",
+    "Keep internship roles only when they are clearly frontend-focused."
+  ],
+  "key_takeaways": [
+    "TokyoDev currently provides the cleanest high-signal frontend listings in this sample.",
+    "Salary transparency is still uneven across otherwise strong openings."
+  ],
+  "jobs": [
+    {
+      "title": "Senior Frontend Engineer",
+      "company": "Example KK",
+      "location": "Tokyo, Japan",
+      "work_mode": "Hybrid",
+      "employment_type": "Full-time",
+      "salary": "JPY 8,000,000 - 10,000,000",
+      "japanese_level": "Business",
+      "english_level": "Professional",
+      "visa_support": "Unknown",
+      "tech_stack": "React, TypeScript, Next.js",
+      "summary": "Build the customer-facing product and lead frontend quality improvements.",
+      "url": "https://example.com/jobs/frontend",
+      "source": "Official Careers",
+      "source_date": "2026-04-04",
+      "match_score": 9.1,
+      "notes": "Strong stack match and clear role scope."
+    }
+  ]
+}

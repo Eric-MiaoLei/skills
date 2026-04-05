@@ -1,0 +1,75 @@
+{
+    "report_title":  "Japan Frontend Job Opportunities",
+    "created_at":  "2026-04-05",
+    "target_profile":  "Frontend engineer with React experience",
+    "search_scope":  "Tokyo and remote-friendly roles in Japan",
+    "methodology":  "Verified against live listing pages and normalized into a shortlist.",
+    "assumptions":  [
+
+                    ],
+    "key_takeaways":  [
+
+                      ],
+    "jobs":  [
+                 {
+                     "title":  "Backend Engineer",
+                     "company":  "Example KK",
+                     "location":  "Tokyo, Japan",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "Unknown",
+                     "japanese_level":  "Unknown",
+                     "english_level":  "Unknown",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Unknown",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "API development for internal systems.",
+                     "url":  "https://example.com/jobs/backend-1",
+                     "source":  "Official Careers",
+                     "source_url":  "https://example.com/jobs/backend-1",
+                     "source_date":  "2026-04-05",
+                     "first_posted_at":  "2026-04-05",
+                     "hiring_status":  "closed",
+                     "status_reason":  "This job is no longer available.",
+                     "job_family":  "backend",
+                     "match_score":  8.2,
+                     "notes":  "Unknown"
+                 },
+                 {
+                     "title":  "QAエンジニア",
+                     "company":  "Sample株式会社",
+                     "location":  "Osaka, Japan",
+                     "work_mode":  "Remote in Japan",
+                     "employment_type":  "Full-time",
+                     "salary":  "Unknown",
+                     "japanese_level":  "Unknown",
+                     "english_level":  "Unknown",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Unknown",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "品質保証と自動テストの改善を担当します。",
+                     "url":  "https://example.jp/jobs/qa-2",
+                     "source":  "Wantedly",
+                     "source_url":  "https://example.jp/jobs/qa-2",
+                     "source_date":  "2026-04-05",
+                     "first_posted_at":  "2026-04-05",
+                     "hiring_status":  "closed",
+                     "status_reason":  "現在募集しておりません",
+                     "job_family":  "qa",
+                     "match_score":  7.9,
+                     "notes":  "Unknown"
+                 }
+             ]
+}

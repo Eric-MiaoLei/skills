@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Backend Engineer",
+    "company": "Example KK",
+    "location": "Tokyo, Japan",
+    "work_mode": "Hybrid",
+    "employment_type": "Full-time",
+    "summary": "API development for internal systems.",
+    "url": "https://example.com/jobs/backend-1",
+    "source": "Official Careers",
+    "source_url": "https://example.com/jobs/backend-1",
+    "source_date": "2026-04-05",
+    "match_score": 8.2,
+    "html_validation_text": "This job is no longer available. Please check our latest openings."
+  },
+  {
+    "title": "QAエンジニア",
+    "company": "Sample株式会社",
+    "location": "Osaka, Japan",
+    "work_mode": "Remote in Japan",
+    "employment_type": "Full-time",
+    "summary": "品質保証と自動テストの改善を担当します。",
+    "url": "https://example.jp/jobs/qa-2",
+    "source": "Wantedly",
+    "source_url": "https://example.jp/jobs/qa-2",
+    "source_date": "2026-04-05",
+    "match_score": 7.9,
+    "page_text": "現在募集しておりません。応募受付を終了しました。"
+  }
+]

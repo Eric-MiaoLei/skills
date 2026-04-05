@@ -1,0 +1,58 @@
+{
+    "jobs":  [
+                 {
+                     "url":  "https://example.com/jp-backend",
+                     "notes":  "jp backend sample",
+                     "source":  "Regression",
+                     "match_score":  9,
+                     "title":  "バックエンドエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,000,000",
+                     "visa_support":  "Unknown",
+                     "summary":  "サーバーサイド開発",
+                     "english_level":  "Unknown",
+                     "work_mode":  "Hybrid",
+                     "japanese_level":  "Business",
+                     "tech_stack":  "Go",
+                     "source_date":  "2026-04-04"
+                 },
+                 {
+                     "url":  "https://example.com/jp-qa",
+                     "notes":  "jp qa sample",
+                     "source":  "Regression",
+                     "match_score":  8.5,
+                     "title":  "QAエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,000,000",
+                     "visa_support":  "Unknown",
+                     "summary":  "品質保証と自動テスト",
+                     "english_level":  "Unknown",
+                     "work_mode":  "Hybrid",
+                     "japanese_level":  "Business",
+                     "tech_stack":  "Playwright",
+                     "source_date":  "2026-04-04"
+                 },
+                 {
+                     "url":  "https://example.com/jp-frontend",
+                     "notes":  "jp frontend sample",
+                     "source":  "Regression",
+                     "match_score":  8.8,
+                     "title":  "フロントエンドエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,500,000",
+                     "visa_support":  "Unknown",
+                     "summary":  "Web UI 開発",
+                     "english_level":  "Unknown",
+                     "work_mode":  "Hybrid",
+                     "japanese_level":  "Business",
+                     "tech_stack":  "React",
+                     "source_date":  "2026-04-04"
+                 }
+             ]
+}

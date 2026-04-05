@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-16">
+  <meta name="ProgId" content="Word.Document">
+  <meta name="Generator" content="Microsoft Word 15">
+  <meta name="Originator" content="Microsoft Word 15">
+  <title>Japan Frontend Job Opportunities</title>
+  <style>
+    body {
+      font-family: "Microsoft YaHei", "SimSun", "Segoe UI", Arial, sans-serif;
+      color: #1f2937;
+      margin: 28px;
+      line-height: 1.45;
+    }
+    h1, h2, h3 {
+      color: #0f172a;
+      margin-bottom: 8px;
+    }
+    h1 {
+      border-bottom: 2px solid #d4dbe5;
+      padding-bottom: 10px;
+    }
+    .meta, .summary-box, .job-card {
+      border: 1px solid #dbe2ea;
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin: 14px 0;
+      background: #fbfdff;
+    }
+    .summary-grid {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 8px;
+    }
+    .summary-grid td {
+      border: 1px solid #dbe2ea;
+      padding: 8px 10px;
+    }
+    table.jobs {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 10.5pt;
+    }
+    table.jobs th, table.jobs td {
+      border: 1px solid #cfd8e3;
+      padding: 8px;
+      vertical-align: top;
+    }
+    table.jobs th {
+      background: #eef4fa;
+      text-align: left;
+    }
+    ul {
+      margin-top: 8px;
+    }
+    a {
+      color: #0b57d0;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Japan Frontend Job Opportunities</h1>
+
+  <div class="meta">
+    <p><strong>&#29983;&#25104;&#26085;&#26399;&#65306;</strong>2026-04-04</p>
+    <p><strong>&#30446;&#26631;&#30011;&#20687;&#65306;</strong>Frontend engineer seeking English-friendly frontend roles in Japan</p>
+    <p><strong>&#25628;&#32034;&#33539;&#22260;&#65306;</strong>Current Japan frontend openings verified on 2026-04-04</p>
+    <p><strong>&#25972;&#29702;&#26041;&#27861;&#65306;</strong>Reviewed live listing pages and normalized them into a shortlist.</p>
+  </div>
+
+  <h2>&#25688;&#35201;</h2>
+  <div class="summary-box">
+    <table class="summary-grid">
+      <tr><td><strong>&#20837;&#36873;&#23703;&#20301;&#24635;&#25968;</strong></td><td>5</td></tr>
+      <tr><td><strong>&#36828;&#31243;&#21451;&#22909;&#23703;&#20301;&#25968;</strong></td><td>1</td></tr>
+      <tr><td><strong>&#26377;&#34218;&#36164;&#20449;&#24687;&#30340;&#23703;&#20301;&#25968;</strong></td><td>3</td></tr>
+      <tr><td><strong>&#26126;&#30830;&#25552;&#21040;&#31614;&#35777;&#25903;&#25345;&#30340;&#23703;&#20301;&#25968;</strong></td><td>0</td></tr>
+    </table>
+  </div>
+
+  
+
+  
+
+  <h2>&#20248;&#20808;&#25512;&#33616;</h2>
+  <div class="summary-box">
+    <ul>
+      <li><strong>Senior Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</strong>&#65306;Strongest senior frontend match in this sample due to modern stack, clear compensation, and explicit frontend architecture ownership. Verified open on 2026-04-04.</li>
+<li><strong>Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</strong>&#65306;Very good mid-level frontend fit with visible salary band and English-friendly environment. Verified open on 2026-04-04.</li>
+<li><strong>Frontend Engineer - PayPay Securities</strong>&#65306;Excellent remote-in-Japan flexibility and clear frontend scope, but compensation and visa details were not stated. Verified open on 2026-04-04.</li>
+    </ul>
+  </div>
+
+  <h2>&#23703;&#20301;&#23545;&#27604;&#34920;</h2>
+  <table class="jobs">
+    <thead>
+      <tr>
+        <th>&#23703;&#20301;</th>
+        <th>&#20844;&#21496;</th>
+        <th>&#22320;&#28857;</th>
+        <th>&#24037;&#20316;&#26041;&#24335;</th>
+        <th>&#34218;&#36164;</th>
+        <th>&#26085;&#35821;&#35201;&#27714;</th>
+        <th>&#31614;&#35777;&#25903;&#25345;</th>
+        <th>&#26680;&#39564;&#26085;&#26399;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>Senior Frontend Engineer, Money Forward Cloud, Fukuoka</td>
+  <td>Money Forward</td>
+  <td>Fukuoka, Japan</td>
+  <td>Hybrid</td>
+  <td>JPY 6,900,000 - 15,000,000</td>
+  <td>None stated</td>
+  <td>Relocation support</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Frontend Engineer, Money Forward Cloud, Fukuoka</td>
+  <td>Money Forward</td>
+  <td>Fukuoka, Japan</td>
+  <td>Hybrid</td>
+  <td>JPY 6,400,000 - 11,000,000</td>
+  <td>None stated</td>
+  <td>Relocation support</td>
+  <td>2026-02-14</td>
+</tr>
+<tr>
+  <td>Frontend Engineer</td>
+  <td>PayPay Securities</td>
+  <td>Chiyoda-ku, Tokyo, Japan</td>
+  <td>Remote in Japan</td>
+  <td>Unknown</td>
+  <td>None stated</td>
+  <td>Unknown</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Frontend Engineer - Visualization Systems</td>
+  <td>DeepX</td>
+  <td>Bunkyo-ku, Tokyo, Japan</td>
+  <td>Hybrid</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Global Internship Program - Front end</td>
+  <td>HENNGE</td>
+  <td>Shibuya-ku, Tokyo, Japan</td>
+  <td>Onsite</td>
+  <td>Unpaid internship with subsidy up to JPY 150,000 per month</td>
+  <td>None stated</td>
+  <td>Visa guidance</td>
+  <td>2026-02-17</td>
+</tr>
+    </tbody>
+  </table>
+
+  <h2>&#23703;&#20301;&#35814;&#24773;</h2>
+  <div class="job-card">
+  <h3>Senior Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Fukuoka, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Hybrid</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Full-time</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>JPY 6,900,000 - 15,000,000</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>None stated | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Relocation support</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>React, TypeScript, Next.js, Redux, Apollo Client, GraphQL, Jest</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>Lead frontend architecture and modernization work for Money Forward Cloud products, with a strong focus on React, Next.js, accessibility, and large-scale business UI development.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>TokyoDev&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-03-12&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>9.4</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>Strongest senior frontend match in this sample due to modern stack, clear compensation, and explicit frontend architecture ownership. Verified open on 2026-04-04.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://www.tokyodev.com/companies/moneyforward/jobs/senior-frontend-engineer-money-forward-cloud-fukuoka">https://www.tokyodev.com/companies/moneyforward/jobs/senior-frontend-engineer-money-forward-cloud-fukuoka</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Fukuoka, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Hybrid</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Full-time</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>JPY 6,400,000 - 11,000,000</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>None stated | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Relocation support</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>React, TypeScript, Next.js, Redux, Apollo Client, GraphQL</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>Frontend-focused role on Money Forward Cloud products, covering user-facing quality, performance, accessibility, and modernization in a growing engineering base.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>TokyoDev&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-02-14&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>9</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>Very good mid-level frontend fit with visible salary band and English-friendly environment. Verified open on 2026-04-04.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://www.tokyodev.com/companies/moneyforward/jobs/frontend-engineer-money-forward-cloud-fukuoka">https://www.tokyodev.com/companies/moneyforward/jobs/frontend-engineer-money-forward-cloud-fukuoka</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer - PayPay Securities</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Chiyoda-ku, Tokyo, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Remote in Japan</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Full-time</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>Unknown</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>None stated | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Unknown</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>JavaScript, TypeScript, Vue.js</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>Develop and operate web products including securities mini-apps, PC trading sites, and internal business tools in a new frontend organization.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>TokyoDev&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-03-12&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>8.8</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>Excellent remote-in-Japan flexibility and clear frontend scope, but compensation and visa details were not stated. Verified open on 2026-04-04.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://www.tokyodev.com/companies/paypay-securities/jobs/frontend-engineer">https://www.tokyodev.com/companies/paypay-securities/jobs/frontend-engineer</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer - Visualization Systems - DeepX</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Bunkyo-ku, Tokyo, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Hybrid</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Full-time</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>Unknown</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>Unknown | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Unknown</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>React, TypeScript, JavaScript, Tailwind CSS, Three.js, React Three Fiber, WebGL, Redux, Storybook</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>Build high-quality visualization dashboards and UI systems for robotics products, with ownership over frontend architecture, UX quality, and real-time data interfaces.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>TokyoDev&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-03-12&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>8.7</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>High-signal frontend role for candidates interested in data visualization or robotics UI. Japan residency is required. Verified open on 2026-04-04.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://www.tokyodev.com/companies/deepx/jobs/visualization-engineer">https://www.tokyodev.com/companies/deepx/jobs/visualization-engineer</a></p>
+</div>
+<div class="job-card">
+  <h3>Global Internship Program - Front end - HENNGE</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Shibuya-ku, Tokyo, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Onsite</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Internship</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>Unpaid internship with subsidy up to JPY 150,000 per month</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>None stated | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Visa guidance</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>TypeScript, React, Vue, AWS</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>An on-site frontend engineering internship focused on practical training with TypeScript and React or Vue in an English-speaking environment in Tokyo.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>TokyoDev&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-02-17&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>7.1</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>Useful for students or early-career applicants targeting Japan, but it is not a full-time role and is unpaid apart from subsidies. Verified open on 2026-04-04.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end">https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end</a></p>
+</div>
+</body>
+</html>

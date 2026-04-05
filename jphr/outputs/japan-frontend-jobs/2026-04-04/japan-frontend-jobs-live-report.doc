@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Japan Frontend Job Opportunities</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: #1f2937;
+      margin: 28px;
+      line-height: 1.45;
+    }
+    h1, h2, h3 {
+      color: #0f172a;
+      margin-bottom: 8px;
+    }
+    h1 {
+      border-bottom: 2px solid #d4dbe5;
+      padding-bottom: 10px;
+    }
+    .meta, .summary-box, .job-card {
+      border: 1px solid #dbe2ea;
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin: 14px 0;
+      background: #fbfdff;
+    }
+    .summary-grid {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 8px;
+    }
+    .summary-grid td {
+      border: 1px solid #dbe2ea;
+      padding: 8px 10px;
+    }
+    table.jobs {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 10.5pt;
+    }
+    table.jobs th, table.jobs td {
+      border: 1px solid #cfd8e3;
+      padding: 8px;
+      vertical-align: top;
+    }
+    table.jobs th {
+      background: #eef4fa;
+      text-align: left;
+    }
+    ul {
+      margin-top: 8px;
+    }
+    a {
+      color: #0b57d0;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Japan Frontend Job Opportunities</h1>
+
+  <div class="meta">
+    <p><strong>Generated:</strong> 2026-04-04</p>
+    <p><strong>Target Profile:</strong> Frontend engineer seeking English-friendly frontend roles in Japan</p>
+    <p><strong>Search Scope:</strong> Current Japan frontend openings verified on 2026-04-04, prioritizing TokyoDev listings that still appeared open.</p>
+    <p><strong>Methodology:</strong> Reviewed current live listing pages on TokyoDev and shortlisted roles focused on frontend, web UI, or frontend-heavy product work. Closed listings were excluded.</p>
+  </div>
+
+  <h2>Summary</h2>
+  <div class="summary-box">
+    <table class="summary-grid">
+      <tr><td><strong>Total Shortlisted Roles</strong></td><td>5</td></tr>
+      <tr><td><strong>Remote-Friendly Roles</strong></td><td>1</td></tr>
+      <tr><td><strong>Roles With Salary Info</strong></td><td>5</td></tr>
+      <tr><td><strong>Roles Explicitly Mentioning Visa Support</strong></td><td>0</td></tr>
+    </table>
+  </div>
+
+  <h2>Top Recommendations</h2>
+  <div class="summary-box">
+    <ul>
+      <li><strong>Senior Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</strong>: Strongest senior frontend match in this sample due to modern stack, clear compensation, and explicit frontend architecture ownership. Verified open on 2026-04-04.</li>
+<li><strong>Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</strong>: Very good mid-level frontend fit with visible salary band and English-friendly environment. Verified open on 2026-04-04.</li>
+<li><strong>Frontend Engineer - PayPay Securities</strong>: Excellent remote-in-Japan flexibility and clear frontend scope, but compensation and visa details were not stated. Verified open on 2026-04-04.</li>
+    </ul>
+  </div>
+
+  <h2>Comparison Table</h2>
+  <table class="jobs">
+    <thead>
+      <tr>
+        <th>Role</th>
+        <th>Company</th>
+        <th>Location</th>
+        <th>Work Mode</th>
+        <th>Salary</th>
+        <th>Japanese</th>
+        <th>Visa</th>
+        <th>Verified</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>Senior Frontend Engineer, Money Forward Cloud, Fukuoka</td>
+  <td>Money Forward</td>
+  <td>Fukuoka, Japan</td>
+  <td>Hybrid</td>
+  <td>JPY 6,900,000 - 15,000,000</td>
+  <td>None stated</td>
+  <td>Relocation support</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Frontend Engineer, Money Forward Cloud, Fukuoka</td>
+  <td>Money Forward</td>
+  <td>Fukuoka, Japan</td>
+  <td>Hybrid</td>
+  <td>JPY 6,400,000 - 11,000,000</td>
+  <td>None stated</td>
+  <td>Relocation support</td>
+  <td>2026-02-14</td>
+</tr>
+<tr>
+  <td>Frontend Engineer</td>
+  <td>PayPay Securities</td>
+  <td>Chiyoda-ku, Tokyo, Japan</td>
+  <td>Remote in Japan</td>
+  <td>Unknown</td>
+  <td>None stated</td>
+  <td>Unknown</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Frontend Engineer - Visualization Systems</td>
+  <td>DeepX</td>
+  <td>Bunkyo-ku, Tokyo, Japan</td>
+  <td>Hybrid</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>Unknown</td>
+  <td>2026-03-12</td>
+</tr>
+<tr>
+  <td>Global Internship Program - Front end</td>
+  <td>HENNGE</td>
+  <td>Shibuya-ku, Tokyo, Japan</td>
+  <td>Onsite</td>
+  <td>Unpaid internship with subsidy up to JPY 150,000 per month</td>
+  <td>None stated</td>
+  <td>Visa guidance</td>
+  <td>2026-02-17</td>
+</tr>
+    </tbody>
+  </table>
+
+  <h2>Detailed Opportunities</h2>
+  <div class="job-card">
+  <h3>Senior Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</h3>
+  <p><strong>Location:</strong> Fukuoka, Japan</p>
+  <p><strong>Work Mode:</strong> Hybrid</p>
+  <p><strong>Employment:</strong> Full-time</p>
+  <p><strong>Salary:</strong> JPY 6,900,000 - 15,000,000</p>
+  <p><strong>Japanese:</strong> None stated | <strong>English:</strong> Professional</p>
+  <p><strong>Visa:</strong> Relocation support</p>
+  <p><strong>Tech Stack:</strong> React, TypeScript, Next.js, Redux, Apollo Client, GraphQL, Jest</p>
+  <p><strong>Summary:</strong> Lead frontend architecture and modernization work for Money Forward Cloud products, with a strong focus on React, Next.js, accessibility, and large-scale business UI development.</p>
+  <p><strong>Source:</strong> TokyoDev on 2026-03-12</p>
+  <p><strong>Match Score:</strong> 9.4</p>
+  <p><strong>Notes:</strong> Strongest senior frontend match in this sample due to modern stack, clear compensation, and explicit frontend architecture ownership. Verified open on 2026-04-04.</p>
+  <p><strong>Link:</strong> <a href="https://www.tokyodev.com/companies/moneyforward/jobs/senior-frontend-engineer-money-forward-cloud-fukuoka">https://www.tokyodev.com/companies/moneyforward/jobs/senior-frontend-engineer-money-forward-cloud-fukuoka</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer, Money Forward Cloud, Fukuoka - Money Forward</h3>
+  <p><strong>Location:</strong> Fukuoka, Japan</p>
+  <p><strong>Work Mode:</strong> Hybrid</p>
+  <p><strong>Employment:</strong> Full-time</p>
+  <p><strong>Salary:</strong> JPY 6,400,000 - 11,000,000</p>
+  <p><strong>Japanese:</strong> None stated | <strong>English:</strong> Professional</p>
+  <p><strong>Visa:</strong> Relocation support</p>
+  <p><strong>Tech Stack:</strong> React, TypeScript, Next.js, Redux, Apollo Client, GraphQL</p>
+  <p><strong>Summary:</strong> Frontend-focused role on Money Forward Cloud products, covering user-facing quality, performance, accessibility, and modernization in a growing engineering base.</p>
+  <p><strong>Source:</strong> TokyoDev on 2026-02-14</p>
+  <p><strong>Match Score:</strong> 9.0</p>
+  <p><strong>Notes:</strong> Very good mid-level frontend fit with visible salary band and English-friendly environment. Verified open on 2026-04-04.</p>
+  <p><strong>Link:</strong> <a href="https://www.tokyodev.com/companies/moneyforward/jobs/frontend-engineer-money-forward-cloud-fukuoka">https://www.tokyodev.com/companies/moneyforward/jobs/frontend-engineer-money-forward-cloud-fukuoka</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer - PayPay Securities</h3>
+  <p><strong>Location:</strong> Chiyoda-ku, Tokyo, Japan</p>
+  <p><strong>Work Mode:</strong> Remote in Japan</p>
+  <p><strong>Employment:</strong> Full-time</p>
+  <p><strong>Salary:</strong> Unknown</p>
+  <p><strong>Japanese:</strong> None stated | <strong>English:</strong> Professional</p>
+  <p><strong>Visa:</strong> Unknown</p>
+  <p><strong>Tech Stack:</strong> JavaScript, TypeScript, Vue.js</p>
+  <p><strong>Summary:</strong> Develop and operate web products including securities mini-apps, PC trading sites, and internal business tools in a new frontend organization.</p>
+  <p><strong>Source:</strong> TokyoDev on 2026-03-12</p>
+  <p><strong>Match Score:</strong> 8.8</p>
+  <p><strong>Notes:</strong> Excellent remote-in-Japan flexibility and clear frontend scope, but compensation and visa details were not stated. Verified open on 2026-04-04.</p>
+  <p><strong>Link:</strong> <a href="https://www.tokyodev.com/companies/paypay-securities/jobs/frontend-engineer">https://www.tokyodev.com/companies/paypay-securities/jobs/frontend-engineer</a></p>
+</div>
+<div class="job-card">
+  <h3>Frontend Engineer - Visualization Systems - DeepX</h3>
+  <p><strong>Location:</strong> Bunkyo-ku, Tokyo, Japan</p>
+  <p><strong>Work Mode:</strong> Hybrid</p>
+  <p><strong>Employment:</strong> Full-time</p>
+  <p><strong>Salary:</strong> Unknown</p>
+  <p><strong>Japanese:</strong> Unknown | <strong>English:</strong> Professional</p>
+  <p><strong>Visa:</strong> Unknown</p>
+  <p><strong>Tech Stack:</strong> React, TypeScript, JavaScript, Tailwind CSS, Three.js, React Three Fiber, WebGL, Redux, Storybook</p>
+  <p><strong>Summary:</strong> Build high-quality visualization dashboards and UI systems for robotics products, with ownership over frontend architecture, UX quality, and real-time data interfaces.</p>
+  <p><strong>Source:</strong> TokyoDev on 2026-03-12</p>
+  <p><strong>Match Score:</strong> 8.7</p>
+  <p><strong>Notes:</strong> High-signal frontend role for candidates interested in data visualization or robotics UI. Japan residency is required. Verified open on 2026-04-04.</p>
+  <p><strong>Link:</strong> <a href="https://www.tokyodev.com/companies/deepx/jobs/visualization-engineer">https://www.tokyodev.com/companies/deepx/jobs/visualization-engineer</a></p>
+</div>
+<div class="job-card">
+  <h3>Global Internship Program - Front end - HENNGE</h3>
+  <p><strong>Location:</strong> Shibuya-ku, Tokyo, Japan</p>
+  <p><strong>Work Mode:</strong> Onsite</p>
+  <p><strong>Employment:</strong> Internship</p>
+  <p><strong>Salary:</strong> Unpaid internship with subsidy up to JPY 150,000 per month</p>
+  <p><strong>Japanese:</strong> None stated | <strong>English:</strong> Professional</p>
+  <p><strong>Visa:</strong> Visa guidance</p>
+  <p><strong>Tech Stack:</strong> TypeScript, React, Vue, AWS</p>
+  <p><strong>Summary:</strong> An on-site frontend engineering internship focused on practical training with TypeScript and React or Vue in an English-speaking environment in Tokyo.</p>
+  <p><strong>Source:</strong> TokyoDev on 2026-02-17</p>
+  <p><strong>Match Score:</strong> 7.1</p>
+  <p><strong>Notes:</strong> Useful for students or early-career applicants targeting Japan, but it is not a full-time role and is unpaid apart from subsidies. Verified open on 2026-04-04.</p>
+  <p><strong>Link:</strong> <a href="https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end">https://www.tokyodev.com/companies/hennge/jobs/global-internship-program-front-end</a></p>
+</div>
+</body>
+</html>

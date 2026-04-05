@@ -1,0 +1,90 @@
+{
+    "report_title":  "Japan Frontend Job Opportunities",
+    "created_at":  "2026-04-04",
+    "target_profile":  "Frontend engineer with React experience",
+    "search_scope":  "Tokyo and remote-friendly roles in Japan",
+    "methodology":  "Verified against live listing pages and normalized into a shortlist.",
+    "assumptions":  [
+
+                    ],
+    "key_takeaways":  [
+
+                      ],
+    "jobs":  [
+                 {
+                     "title":  "フロントエンドエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,500,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Unknown",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "React",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "Web UI 開発",
+                     "url":  "https://example.com/jp-frontend",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  8.8,
+                     "notes":  "jp frontend sample"
+                 },
+                 {
+                     "title":  "バックエンドエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 8,000,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Unknown",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Go",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "サーバーサイド開発",
+                     "url":  "https://example.com/jp-backend",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  9,
+                     "notes":  "jp backend sample"
+                 },
+                 {
+                     "title":  "QAエンジニア",
+                     "company":  "Example",
+                     "location":  "Tokyo",
+                     "work_mode":  "Hybrid",
+                     "employment_type":  "Full-time",
+                     "salary":  "JPY 7,000,000",
+                     "japanese_level":  "Business",
+                     "english_level":  "Unknown",
+                     "visa_support":  "Unknown",
+                     "tech_stack":  "Playwright",
+                     "company_size":  "Unknown",
+                     "benefits":  [
+
+                                  ],
+                     "education_requirements":  "Unknown",
+                     "experience_requirements":  "Unknown",
+                     "other_requirements":  "Unknown",
+                     "summary":  "品質保証と自動テスト",
+                     "url":  "https://example.com/jp-qa",
+                     "source":  "Regression",
+                     "source_date":  "2026-04-04",
+                     "match_score":  8.5,
+                     "notes":  "jp qa sample"
+                 }
+             ]
+}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-16">
+  <meta name="ProgId" content="Word.Document">
+  <meta name="Generator" content="Microsoft Word 15">
+  <meta name="Originator" content="Microsoft Word 15">
+  <title>Japan Frontend Job Opportunities</title>
+  <style>
+    body {
+      font-family: "Microsoft YaHei", "SimSun", "Segoe UI", Arial, sans-serif;
+      color: #1f2937;
+      margin: 28px;
+      line-height: 1.45;
+    }
+    h1, h2, h3 {
+      color: #0f172a;
+      margin-bottom: 8px;
+    }
+    h1 {
+      border-bottom: 2px solid #d4dbe5;
+      padding-bottom: 10px;
+    }
+    .meta, .summary-box, .job-card {
+      border: 1px solid #dbe2ea;
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin: 14px 0;
+      background: #fbfdff;
+    }
+    .summary-grid {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 8px;
+    }
+    .summary-grid td {
+      border: 1px solid #dbe2ea;
+      padding: 8px 10px;
+    }
+    table.jobs {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 10.5pt;
+    }
+    table.jobs th, table.jobs td {
+      border: 1px solid #cfd8e3;
+      padding: 8px;
+      vertical-align: top;
+    }
+    table.jobs th {
+      background: #eef4fa;
+      text-align: left;
+    }
+    ul {
+      margin-top: 8px;
+    }
+    a {
+      color: #0b57d0;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Japan Frontend Job Opportunities</h1>
+
+  <div class="meta">
+    <p><strong>&#29983;&#25104;&#26085;&#26399;&#65306;</strong>2026-04-04</p>
+    <p><strong>&#30446;&#26631;&#30011;&#20687;&#65306;</strong>Frontend engineer seeking English-friendly frontend roles in Japan</p>
+    <p><strong>&#25628;&#32034;&#33539;&#22260;&#65306;</strong>Current Japan frontend openings verified on 2026-04-04</p>
+    <p><strong>&#25972;&#29702;&#26041;&#27861;&#65306;</strong>Reviewed live listing pages and normalized them into a shortlist.</p>
+  </div>
+
+  <h2>&#25688;&#35201;</h2>
+  <div class="summary-box">
+    <table class="summary-grid">
+      <tr><td><strong>&#20837;&#36873;&#23703;&#20301;&#24635;&#25968;</strong></td><td>1</td></tr>
+      <tr><td><strong>&#36828;&#31243;&#21451;&#22909;&#23703;&#20301;&#25968;</strong></td><td>0</td></tr>
+      <tr><td><strong>&#26377;&#34218;&#36164;&#20449;&#24687;&#30340;&#23703;&#20301;&#25968;</strong></td><td>1</td></tr>
+      <tr><td><strong>&#26126;&#30830;&#25552;&#21040;&#31614;&#35777;&#25903;&#25345;&#30340;&#23703;&#20301;&#25968;</strong></td><td>0</td></tr>
+    </table>
+  </div>
+
+  <h2>&#20551;&#35774;&#19982;&#36793;&#30028;</h2><div class="summary-box"><ul><li>Prioritize English-friendly product companies.</li>`n<li>Keep internship roles only when they are clearly frontend-focused.</li></ul></div>
+
+  <h2>&#20851;&#38190;&#32467;&#35770;</h2><div class="summary-box"><ul><li>TokyoDev currently provides the cleanest high-signal frontend listings in this sample.</li>`n<li>Salary transparency is still uneven across otherwise strong openings.</li></ul></div>
+
+  <h2>&#20248;&#20808;&#25512;&#33616;</h2>
+  <div class="summary-box">
+    <ul>
+      <li><strong>Senior Frontend Engineer - Example KK</strong>&#65306;Strong stack match and clear role scope.</li>
+    </ul>
+  </div>
+
+  <h2>&#23703;&#20301;&#23545;&#27604;&#34920;</h2>
+  <table class="jobs">
+    <thead>
+      <tr>
+        <th>&#23703;&#20301;</th>
+        <th>&#20844;&#21496;</th>
+        <th>&#22320;&#28857;</th>
+        <th>&#24037;&#20316;&#26041;&#24335;</th>
+        <th>&#34218;&#36164;</th>
+        <th>&#26085;&#35821;&#35201;&#27714;</th>
+        <th>&#31614;&#35777;&#25903;&#25345;</th>
+        <th>&#26680;&#39564;&#26085;&#26399;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+  <td>Senior Frontend Engineer</td>
+  <td>Example KK</td>
+  <td>Tokyo, Japan</td>
+  <td>Hybrid</td>
+  <td>JPY 8,000,000 - 10,000,000</td>
+  <td>Business</td>
+  <td>Unknown</td>
+  <td>2026-04-04</td>
+</tr>
+    </tbody>
+  </table>
+
+  <h2>&#23703;&#20301;&#35814;&#24773;</h2>
+  <div class="job-card">
+  <h3>Senior Frontend Engineer - Example KK</h3>
+  <p><strong>&#22320;&#28857;&#65306;</strong>Tokyo, Japan</p>
+  <p><strong>&#24037;&#20316;&#26041;&#24335;&#65306;</strong>Hybrid</p>
+  <p><strong>&#38687;&#20323;&#31867;&#22411;&#65306;</strong>Full-time</p>
+  <p><strong>&#34218;&#36164;&#65306;</strong>JPY 8,000,000 - 10,000,000</p>
+  <p><strong>&#26085;&#35821;&#35201;&#27714;&#65306;</strong>Business | <strong>&#33521;&#35821;&#35201;&#27714;&#65306;</strong>Professional</p>
+  <p><strong>&#31614;&#35777;&#25903;&#25345;&#65306;</strong>Unknown</p>
+  <p><strong>&#25216;&#26415;&#26632;&#65306;</strong>React, TypeScript, Next.js</p>
+  <p><strong>&#23703;&#20301;&#25688;&#35201;&#65306;</strong>Build the customer-facing product and lead frontend quality improvements.</p>
+  <p><strong>&#20449;&#24687;&#26469;&#28304;&#65306;</strong>Official Careers&#65288;&#26680;&#39564;&#26085;&#26399;&#65306;2026-04-04&#65289;</p>
+  <p><strong>&#21305;&#37197;&#20998;&#65306;</strong>9.1</p>
+  <p><strong>&#22791;&#27880;&#65306;</strong>Strong stack match and clear role scope.</p>
+  <p><strong>&#30003;&#35831;&#38142;&#25509;&#65306;</strong><a href="https://example.com/jobs/frontend">https://example.com/jobs/frontend</a></p>
+</div>
+</body>
+</html>
